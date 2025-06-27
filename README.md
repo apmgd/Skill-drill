@@ -3,13 +3,13 @@ Personal learning hub
 
 Security+
 
-intro
+intro: DONE
 https://youtu.be/1E7pI7PB4KI?si=3k71t5mi4vDym5AX
 
-domain 1
+domain 1: DONE
 https://youtu.be/SmzTNZwJnIw?si=GHdrA6pg0TcfUSfZ
 
-domain 2
+domain 2 - currently at 1:27:44
 https://youtu.be/OTWJuA6cudo?si=21Zw25K1bT9EJW1p
 
 domain 3
