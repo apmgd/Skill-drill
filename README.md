@@ -9,10 +9,10 @@ https://youtu.be/1E7pI7PB4KI?si=3k71t5mi4vDym5AX
 domain 1: DONE
 https://youtu.be/SmzTNZwJnIw?si=GHdrA6pg0TcfUSfZ
 
-domain 2 - currently at 1:44:40
+domain 2 - DONE
 https://youtu.be/OTWJuA6cudo?si=21Zw25K1bT9EJW1p
 
-domain 3
+domain 3 - currently at 16:22
 https://youtu.be/ASb661gYqXc?si=xSt5weFibx37ap3o
 
 domain 4
