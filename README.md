@@ -12,7 +12,7 @@ https://youtu.be/SmzTNZwJnIw?si=GHdrA6pg0TcfUSfZ
 domain 2 - DONE
 https://youtu.be/OTWJuA6cudo?si=21Zw25K1bT9EJW1p
 
-domain 3 - currently at 16:22
+domain 3 - currently at 50:00+
 https://youtu.be/ASb661gYqXc?si=xSt5weFibx37ap3o
 
 domain 4
